@@ -17,7 +17,9 @@ Instead of checking ICBC site for appointments, just run this and get emails on 
 
 # Notes 
 Yes I know the code is messy. Yes I know it is not tested and yes I know the API keys for Courier are exposed and can be abused.
-I didn't really care for those as this had the purpose of finding me appointments until I pass the road test 🇨🇦. 
+I didn't really care for those as this had the purpose of finding me appointments until I pass the road test. So I wrote a very quick and dirty lil project..
+
+
 I encourage you create your own Courier account and your own template if you rely on this to give you those emails. (Or even setup your own SMTP).
 Cuz currently if many people are gonna use it with my free plan, it is gonna reach the maximum notifications and won't send anymore.
 In order to setup your own account, See [this](https://www.courier.com/blog/how-to-send-emails-with-node-js/) for more info. 
