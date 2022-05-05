@@ -16,7 +16,7 @@ Instead of checking ICBC site for appointments, just run this and get emails on 
 
 
 # Notes 
-Yes I know the code is messy. Yes I know it is not tested and yes I know the API keys for Courier are exposed and can be abused.
+Yes I know the code is messy. Yes this could have been a cron job or some other better approach. Yes I know it is not tested and yes I know the API keys for Courier are exposed and can be abused.
 I didn't really care for those as this had the purpose of finding me appointments until I pass the road test. So I wrote a very quick and dirty lil project..
 
 
